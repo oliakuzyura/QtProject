@@ -1,0 +1,7 @@
+<stations>
+    <stations id="1" Time="12" Metro_station="Polytechnic Institute" City="Kyiv" Depth="10" Country="Ukraine" Color_of_station="red"/>
+    <stations id="2" Time="1.03" Metro_station="Green Park" City="London" Depth="32" Country="England" Color_of_station="blue"/>
+    <stations id="3" Time="5.52" Metro_station="Nihonbasi" City="Tokio" Depth="102" Country="Japan" Color_of_station="sky-blue"/>
+    <stations id="4" Time="1" Metro_station="kk" City="London" Depth="10" Country="England" Color_of_station="blue"/>
+    <stations id="5" Time="0" Metro_station="hahaha" City="" Depth="0" Country="" Color_of_station=""/>
+</stations>

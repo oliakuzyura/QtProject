@@ -1,0 +1,7 @@
+<branches>
+    <branches color="Red" amount="20" depth="100" id="4"/>
+    <branches color="Blue" amount="3" depth="180" id="1"/>
+    <branches color="Green" amount="21" depth="130" id="5"/>
+    <branches color="Blue" amount="3" depth="45" id="9"/>
+    <branches color="red" amount="1" depth="10" id="8"/>
+</branches>
